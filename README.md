@@ -28,7 +28,7 @@
 1. **Требования**:
    Скрипт проверит наличиие необходимых компонентов и предложит установить недостающие.
 
-2. **Запуск или Обновление**:
+2. **Первый запуск или Обновление**:
    ```bash
    curl -o arc_deploy.sh https://raw.githubusercontent.com/pittpv/arc-network/main/arc_deploy.sh && chmod +x arc_deploy.sh && ./arc_deploy.sh
    ```

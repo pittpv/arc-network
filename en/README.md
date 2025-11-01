@@ -28,7 +28,7 @@ Automated script for deploying smart contracts to Arc Testnet using Foundry.
 1. **Requirements**:
    The script will check for the necessary components and offer to install any missing ones.
 
-2. **Launch or Update**:
+2. **First launch or Update**:
    ```bash
    curl -o arc_deploy.sh https://raw.githubusercontent.com/pittpv/arc-network/main/arc_deploy.sh && chmod +x arc_deploy.sh && ./arc_deploy.sh
    ```
