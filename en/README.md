@@ -3,7 +3,7 @@
 **Description in:**
 - [🇷🇺 На Русском](./ "Русская версия описания")
 
-![Main Screen](./other/en-main-scr.jpg)
+![Main Screen](../other/en-main-scr.jpg)
 
 Automated script for deploying smart contracts to Arc Testnet using Foundry.
 
