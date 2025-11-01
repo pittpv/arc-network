@@ -44,7 +44,7 @@ Automated script for deploying smart contracts to Arc Testnet using Foundry.
 After launching the script, you will see the main menu with 4 options:
 
 1. **Start contract deployment** - the main deployment process
-2. **View log file** - view execution history
+2. **View log file** - view the log file directly in the terminal
 3. **Delete project folder** - clean up created files
 4. **Exit** - terminate the script
 
