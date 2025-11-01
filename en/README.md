@@ -114,3 +114,5 @@ Author [Pittpv](https://x.com/pittpv)
 Any questions, bug reports, or feedback:
 
 https://t.me/+DLsyG6ol3SFjM2Vk
+
+⭐️ Don't forget to star the repository
