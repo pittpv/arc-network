@@ -1,4 +1,4 @@
-# Arc Testnet Deployment Script
+# Скрипт развертывания контракта в Arc Testnet
 
 **Описание на:**
 - [🌐 In English](./en/ "English version of description")
